@@ -7,7 +7,7 @@ Part 3 K-means clustering
 
 Part 4 Topic Modeling - Latent Dirichlet Allocation
 
-Part 5 Result Comparision: Compare the topics between good reviews and bad reviews
+Part 5 Result Comparison: Compare the topics between good reviews and bad reviews
 
 ---------------------------------------------------------------------------------------------
 About the dataset:
